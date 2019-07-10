@@ -1,2 +1,29 @@
-# vue-cli3-huanxin
-使用vue-cli3 和环信SDK搭建的聊天DEMO
+# vuedemo
+使用vue-cli3加环信SDK搭建的demo
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
